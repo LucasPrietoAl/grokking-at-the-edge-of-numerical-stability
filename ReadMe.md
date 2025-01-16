@@ -22,8 +22,9 @@
 
 </p>
 
+
 <br/>
-This is the official implementation of our paper <i>Grokking at the Edge of Numerical Stability</i>. Here you can find guidance to reproduce the main results of the paper.
+This is the official implementation of our paper <a href="https://arxiv.org/abs/2501.04697" target="_blank"><i>Grokking at the Edge of Numerical Stability</i></a> (arXiv: 2501.04697). Here you can find guidance to reproduce the main results of the paper.
 <br/>
 
 ## Replicating Our Results
@@ -58,7 +59,7 @@ If you found this code or paper useful, please consider citing:
   title={Grokking at the Edge of Numerical Stability},
   author={Prieto, Lucas and Barsbey, Melih and Mediano, Pedro and Birdal, Tolga},
   year = {2025},
-  eprint={},
+  eprint={2501.04697},
   archivePrefix={arXiv},
   primaryClass={cs.CV}
 }
