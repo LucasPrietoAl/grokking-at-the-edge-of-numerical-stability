@@ -124,7 +124,7 @@ def split_dataset(dataset, train_fraction, batch_size):
     total_size = len(dataset)
     train_size = int(train_fraction * total_size)
     test_size = total_size - train_size
-    print(f'Starting trining. Train dataset size: {train_size}, Test size: {test_size}')
+    print(f'Starting training. Train dataset size: {train_size}, Test size: {test_size}')
     train_dataset, test_dataset = random_split(dataset, [train_size, test_size])
     return train_dataset, test_dataset
 
